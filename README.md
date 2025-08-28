@@ -5,7 +5,7 @@ This project presents an interactive sales analysis dashboard built in **Microso
 The dashboard provides insights into revenue trends, customer behavior, product performance, and order patterns using Pivot Tables, Pivot Charts, and slicers. 
 
 ## Dataset
--<a href="https://github.com/Neeraj-Dangwal/fnp-sales-analysis/blob/main/fnp_sales_project.xlsx">Dataset</a>
+- <a href="https://github.com/Neeraj-Dangwal/fnp-sales-analysis/blob/main/fnp_sales_project.xlsx">Dataset</a>
 
 ## Key Features  
 - Revenue analysis by month, hour, occasion, and category  
@@ -19,6 +19,6 @@ The dashboard provides insights into revenue trends, customer behavior, product 
 - Designing clear visualizations to highlight key insights  
 
 ## Dashboard
-=<a href="https://github.com/Neeraj-Dangwal/fnp-sales-analysis/blob/main/Screenshot%202025-08-28%20122008.png">Dashboard</a>
+- <a href="https://github.com/Neeraj-Dangwal/fnp-sales-analysis/blob/main/Screenshot%202025-08-28%20122008.png">Dashboard</a>
 
 <img width="1854" height="859" alt="Screenshot 2025-08-28 122008" src="https://github.com/user-attachments/assets/9908e1fd-23ec-471f-b004-6dd9561d9a35" />
